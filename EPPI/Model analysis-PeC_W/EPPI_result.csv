@@ -1,0 +1,10 @@
+weak_Topall,PeC_W_rank,PeC_rank,label
+rplD,16,1193,PeC_W-TP
+rpsD,66,1204,PeC_W-TP
+rplM,67,1195,PeC_W-TP
+rplU,97,1196,PeC_W-TP
+ybbO,101,92,PeC-FP
+pflB,102,99,PeC-FP
+recJ,103,95,PeC-FP
+malT,104,91,PeC-FP
+rob,112,100,PeC-FP
